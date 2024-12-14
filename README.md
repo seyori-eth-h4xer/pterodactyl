@@ -1,6 +1,6 @@
 # :bird: pterodactyl-auto-installer
 
-## AUTO INSTALLER SCRIPT
+## PTERODACTYL AUTO INSTALLER SCRIPT
 
 Use the script below to install the panel, node, or hack back into the panel with just one copy-paste command.
 
